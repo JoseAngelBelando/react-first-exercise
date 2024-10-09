@@ -17,7 +17,7 @@ const App = ()=> {
    <h2><CelsiusToFahrenheit celsius={33}></CelsiusToFahrenheit></h2>
    <h2><FahrenheitToCelsius fahrenheit={122}></FahrenheitToCelsius></h2>
    <h2><TotalPrice price={49.99}></TotalPrice></h2>
-   <h2><WriteMessage name='Marta' material='plástico' size='grande'></WriteMessage></h2>
+   <h2><WriteMessage name='Marta' material='Madera' size='grande'></WriteMessage></h2>
   </div>
 };
 
